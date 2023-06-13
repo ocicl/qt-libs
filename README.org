@@ -1,0 +1,10 @@
+* qt-libs
+
+Helper system to ensure the necessary library for CommonQt/Qtools development are available and deployable.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/qt-libs.git   |
+| commit  | 48f5753  |
+| systems | qt-libs |
+|---------+-------------------------------------------|
+
